@@ -18,12 +18,12 @@ const Experience = () => {
     {
       title: "Finnitee",
       description: "Designed a home page for their application",
-      figmaLink: "https://www.figma.com/file/finnitee-project",
+      figmaLink: "https://www.figma.com/design/O3KF6RityBuBMlY8yD0J7M/Untitled?m=auto&t=WUziCjhSL1xD3Wi3-1",
     },
     {
       title: "PICPLIX",
       description: "Created a movie streaming website UI",
-      figmaLink: "https://www.figma.com/file/picplix-project",
+      figmaLink: "https://www.figma.com/design/UjIisheY3WTrPKdCEOsdy2/Untitled?m=auto&t=WUziCjhSL1xD3Wi3-1",
     },
   ]
 

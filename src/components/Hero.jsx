@@ -43,7 +43,11 @@ const Hero = () => {
               whileTap={{ scale: 0.95 }}
             >
               <FileText size={18} />
-              View Resume
+              <button onClick={() => window.open("https://drive.google.com/file/d/1OHXeS7R74qqi-yYFoi8lypscOAWJ0lfy/view?usp=drive_link", "_blank", "noopener,noreferrer")}>
+  View Resume
+</button>
+              
+              
             </motion.a>
           </div>
         </motion.div>

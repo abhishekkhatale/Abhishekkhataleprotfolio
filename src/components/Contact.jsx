@@ -33,7 +33,7 @@ const Contact = () => {
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
             <div className="flex items-center">
-              <div className="w-12 h-12 bg-black text-white rounded-full flex items-center justify-center mr-4">
+              <div className="w-12 h-12  text-black rounded-full flex items-center justify-center mr-4">
                 <Mail size={20} />
               </div>
               <div>
@@ -45,7 +45,7 @@ const Contact = () => {
             </div>
 
             <div className="flex items-center">
-              <div className="w-12 h-12 bg-black text-white rounded-full flex items-center justify-center mr-4">
+              <div className="w-12 h-12  text-black rounded-full flex items-center justify-center mr-4">
                 <Phone size={20} />
               </div>
               <div>
